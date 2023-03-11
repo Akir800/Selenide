@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/byhd5107ut216eux?svg=true)](https://ci.appveyor.com/project/Akir800/selenide)
